@@ -3,4 +3,4 @@ hellogit
 test_origin_git
 create_newBranch_function_from_master
 test_branch_dev
-modify debug is done
+test stash the  frist is stash,and then modify debug,last stash pop to return dev state
