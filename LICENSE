@@ -3,3 +3,4 @@ hellogit
 test_origin_git
 create_newBranch_function_from_master
 test_branch_dev
+test_git_stash
