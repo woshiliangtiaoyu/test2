@@ -7,3 +7,4 @@ test stash the  frist is stash,and then modify debug,last stash pop to return de
 20190314-test_branch_and_stash--master-bug1
 20190314-test branch and stash
 insert 0
+test_git_stash_20190314
