@@ -9,3 +9,4 @@ test stash the  frist is stash,and then modify debug,last stash pop to return de
 insert 0
 test_git_stash_20190314
 new_20190318
+new_20190318_dev1
